@@ -1,4 +1,43 @@
 {
-    "actualizado": "2026-03-25T18:03:22.863073",
-    "productos": []
+    "actualizado": "2026-03-25T18:33:34.025598",
+    "productos": [
+        {
+            "id": "leche-01",
+            "producto": "Leche",
+            "precio": 1298.0,
+            "tienda": "La Gallega",
+            "link": "https://www.lagallega.com.ar/productosdet.asp?Pr=40532&P=1"
+        },
+        {
+            "id": "aceite-01",
+            "producto": "Aceite",
+            "precio": 3381.0,
+            "tienda": "La Gallega",
+            "link": "https://www.lagallega.com.ar/productosdet.asp?Pr=18001&P=1"
+        },
+        {
+            "id": "harina-01",
+            "producto": "Harina",
+            "precio": 762.0,
+            "tienda": "La Gallega",
+            "link": "https://www.lagallega.com.ar/productosdet.asp?Pr=18634&P=1"
+        },
+        {
+            "id": "arroz-01",
+            "producto": "Arroz",
+            "precio": 829.0,
+            "tienda": "La Gallega",
+            "link": "https://www.lagallega.com.ar/productosdet.asp?Pr=2284&P=1"
+        },
+        {
+            "id": "fideos-01",
+            "producto": "Fideos",
+            "precio": 889.0,
+            "tienda": "La Gallega",
+            "link": "https://www.lagallega.com.ar/productosdet.asp?Pr=32706&P=1"
+        }
+    ],
+    "metadatos": {
+        "cantidad_total": 5
+    }
 }
