@@ -1,5 +1,5 @@
 {
-    "actualizado": "2026-03-25T18:33:34.025598",
+    "actualizado": "2026-03-25T18:44:52.018362",
     "productos": [
         {
             "id": "leche-01",
@@ -35,9 +35,16 @@
             "precio": 889.0,
             "tienda": "La Gallega",
             "link": "https://www.lagallega.com.ar/productosdet.asp?Pr=32706&P=1"
+        },
+        {
+            "id": "cafe-01",
+            "producto": "Café",
+            "precio": 3150.0,
+            "tienda": "La Gallega",
+            "link": "https://www.lagallega.com.ar/productosdet.asp?Pr=850139&P=1"
         }
     ],
     "metadatos": {
-        "cantidad_total": 5
+        "cantidad_total": 6
     }
 }
